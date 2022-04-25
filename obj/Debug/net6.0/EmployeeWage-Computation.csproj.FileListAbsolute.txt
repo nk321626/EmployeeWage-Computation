@@ -1,0 +1,15 @@
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\bin\Debug\net6.0\EmployeeWage-Computation.exe
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\bin\Debug\net6.0\EmployeeWage-Computation.deps.json
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\bin\Debug\net6.0\EmployeeWage-Computation.runtimeconfig.json
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\bin\Debug\net6.0\EmployeeWage-Computation.dll
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\bin\Debug\net6.0\EmployeeWage-Computation.pdb
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\obj\Debug\net6.0\EmployeeWage-Computation.csproj.AssemblyReference.cache
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\obj\Debug\net6.0\EmployeeWage-Computation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\obj\Debug\net6.0\EmployeeWage-Computation.AssemblyInfoInputs.cache
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\obj\Debug\net6.0\EmployeeWage-Computation.AssemblyInfo.cs
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\obj\Debug\net6.0\EmployeeWage-Computation.csproj.CoreCompileInputs.cache
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\obj\Debug\net6.0\EmployeeWage-Computation.dll
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\obj\Debug\net6.0\refint\EmployeeWage-Computation.dll
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\obj\Debug\net6.0\EmployeeWage-Computation.pdb
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\obj\Debug\net6.0\EmployeeWage-Computation.genruntimeconfig.cache
+C:\Users\nk321\OneDrive\Desktop\EmployeeWage-Computation\obj\Debug\net6.0\ref\EmployeeWage-Computation.dll
